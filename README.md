@@ -1,6 +1,9 @@
 ## Hi there 👋
 
+I am a senior full-stack software engineer with 6+ years of experience working on applications with Ruby on Rails backends and React frontends. I specialize in test-driven development. I build reliable and well-tested RESTful and GraphQL APIs.
+
 - 😄 Pronouns: [he/him](https://pronouns.org/he-him)
+- ⚡ Fun fact: Back in the 90’s, I ran a [Mortal Kombat fan site](https://web.archive.org/web/19990210064637/http://www.geocities.com:80/TimesSquare/Arcade/2124/main.html) where people could submit their custom fighters into an online tournament voted on by the site’s visitors. (All done using handwritten HTML, CSS, and Perl scripts.)
 
 <!--
 **derekhouck/derekhouck** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,5 +16,4 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
-- ⚡ Fun fact: ...
 -->
